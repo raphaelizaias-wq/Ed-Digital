@@ -1,1 +1,14 @@
+body{
+  padding: 25px;
+  background-color: darkblue;
+}
+.title {
+color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
+}
+img{
+width:300px ;
+height: auto;
+}
+7
